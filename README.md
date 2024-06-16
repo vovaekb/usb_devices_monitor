@@ -14,9 +14,9 @@ conan build .
 ```
 
 
-✅## Run tests
+## Run tests
 
-Move to folder bin and run tests:
+✅ Move to folder bin and run tests:
 
 ```
 cd bin && ./library_test
