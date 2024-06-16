@@ -1,6 +1,6 @@
 # usb_devices_monitor
 
-Simple service for monitoring attached USB devices.
+🔱🔌Simple service for monitoring attached USB devices.
 
 Stack:
 - libudev
