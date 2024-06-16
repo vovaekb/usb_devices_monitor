@@ -14,7 +14,7 @@ conan build .
 ```
 
 
-## Run tests
+✅## Run tests
 
 Move to folder bin and run tests:
 
